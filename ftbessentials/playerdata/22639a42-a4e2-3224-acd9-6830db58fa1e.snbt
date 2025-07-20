@@ -1,0 +1,22 @@
+{
+	muted: false
+	fly: false
+	god: false
+	nick: ""
+	name: "Rieriko"
+	last_seen: { dim: "minecraft:overworld", x: 1408, y: 64, z: 1230, time: 1752938613460L, xRot: 30.89993f, yRot: -137.81067f }
+	recording: 0
+	teleport_history: [
+		{ dim: "minecraft:overworld", x: 1440, y: 64, z: 1209, time: 1752928641670L, xRot: 13.500012f, yRot: -122.54961f }
+		{ dim: "minecraft:overworld", x: 1024, y: 85, z: 1024, time: 1752928743535L, xRot: -5.7f, yRot: 167.10025f }
+		{ dim: "minecraft:overworld", x: 1024, y: 100, z: 1024, time: 1752928757352L, xRot: 90.0f, yRot: 175.05058f }
+		{ dim: "minecraft:overworld", x: 1023, y: 120, z: 1026, time: 1752928800068L, xRot: 54.899998f, yRot: -71.09918f }
+		{ dim: "minecraft:overworld", x: -2322, y: -23, z: 2442, time: 1752932028404L, xRot: 45.60002f, yRot: -19.545898f }
+		{ dim: "minecraft:overworld", x: 1421, y: 69, z: 1210, time: 1752932211684L, xRot: 14.099971f, yRot: 89.85019f }
+		{ dim: "minecraft:overworld", x: 1286, y: 83, z: 2398, time: 1752932349305L, xRot: 6.2997904f, yRot: -88.350464f }
+		{ dim: "minecraft:overworld", x: 1244, y: 2, z: 2389, time: 1752933037856L, xRot: 7.199863f, yRot: -170.89008f }
+		{ dim: "minecraft:overworld", x: 1457, y: 65, z: 1257, time: 1752933360119L, xRot: -2.250471f, yRot: -36.39438f }
+		{ dim: "minecraft:overworld", x: 921, y: 63, z: 1359, time: 1752933939989L, xRot: 43.349808f, yRot: 121.05896f }
+	]
+	homes: { }
+}
